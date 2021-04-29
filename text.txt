@@ -1,0 +1,18 @@
+Parco_auto_usate
+
+Id			numero
+marca			stringa VARCHAT(50)
+modello			stringa	VARCHAT(50)
+targa			stringa	VARCHAT(7)
+alimentazione		stringa	VARCHAT(15)
+cilindrata		numero  MEDIUMINT
+immatricolazione	data	DATE
+chilometraggio		numero  INT
+ultima_revisione_mctc	data	DATE
+optional		stringa	TEXT
+danni			stringa TEXT
+colore			stringa	VARCHAT(30)
+prezzo			numero	DOUBLE(9,2) 
+
+
+
